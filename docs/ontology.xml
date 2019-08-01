@@ -35,7 +35,6 @@
         <rdfs:comment xml:lang="en">An ontology to describe standards related to Industry 4.0 and Smart Manufacturing</rdfs:comment>
         <rdfs:comment xml:lang="en">The Internet of things (IoT) is the network of devices such as vehicles, and home appliances that contain electronics, software, sensors, actuators, and connectivity which allows these things to connect, interact and exchange data.</rdfs:comment>
         <rdfs:label xml:lang="en">Internet of Things (IOT)</rdfs:label>
-        <owl:versionInfo>0.3</owl:versionInfo>
         <owl:versionInfo>0.4</owl:versionInfo>
         <hasDBpediaResource xml:lang="en">http://dbpedia.org/page/Internet_of_things</hasDBpediaResource>
         <hasWikipediaArticle xml:lang="en">https://en.wikipedia.org/wiki/Internet_of_things</hasWikipediaArticle>

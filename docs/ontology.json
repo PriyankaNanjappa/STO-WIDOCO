@@ -5212,8 +5212,6 @@
     "@value" : "Internet of Things (IOT)"
   } ],
   "http://www.w3.org/2002/07/owl#versionInfo" : [ {
-    "@value" : "0.3"
-  }, {
     "@value" : "0.4"
   } ],
   "http://xmlns.com/foaf/0.1/maker" : [ {

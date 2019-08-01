@@ -12,7 +12,6 @@
 <https://w3id.org/i40/sto#> <http://www.w3.org/2000/01/rdf-schema#comment> "An ontology to describe standards related to Industry 4.0 and Smart Manufacturing"@en .
 <https://w3id.org/i40/sto#> <http://www.w3.org/2000/01/rdf-schema#comment> "The Internet of things (IoT) is the network of devices such as vehicles, and home appliances that contain electronics, software, sensors, actuators, and connectivity which allows these things to connect, interact and exchange data."@en .
 <https://w3id.org/i40/sto#> <http://www.w3.org/2000/01/rdf-schema#label> "Internet of Things (IOT)"@en .
-<https://w3id.org/i40/sto#> <http://www.w3.org/2002/07/owl#versionInfo> "0.3" .
 <https://w3id.org/i40/sto#> <http://www.w3.org/2002/07/owl#versionInfo> "0.4" .
 <https://w3id.org/i40/sto#> <https://w3id.org/i40/sto#hasDBpediaResource> "http://dbpedia.org/page/Internet_of_things"@en .
 <https://w3id.org/i40/sto#> <https://w3id.org/i40/sto#hasWikipediaArticle> "https://en.wikipedia.org/wiki/Internet_of_things"@en .
